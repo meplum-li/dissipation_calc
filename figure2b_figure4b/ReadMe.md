@@ -1,5 +1,5 @@
 - You need to submit the job to a HPC by running `bash run.sh`.
 - This program is prepared for a cpu with 32 cores and may take 3.2 hours to give the result. It is easy to fit other platforms by editting the `run.sh`.
--  After calculation, you'll get the data stroed in a file named `dissipation_data.mat`.
+-  After calculation, you'll get the data saved in the file named `dissipation_data.mat`.
 - For convinience, I've put a copy of the final result in this folder of which the name is `dissipation_data.mat`.
 - To produce the Fig.2b and Fig.4b in the original paper, just run the file `plot_fig2b_fig4b.m`.

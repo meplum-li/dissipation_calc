@@ -1,5 +1,5 @@
 function nearest = isnearest(uc, nuc)
-%%% 判断uc和nuc的格点之间是否是最近邻关系
+%%% jusify whether uc is the nearest unit cell to nuc
 % (uc)by(nuc)
 [xa,xb] = meshgrid(nuc(:,1),uc(:,1));
 %xa ->nuc (#uc)by(#nuc)
