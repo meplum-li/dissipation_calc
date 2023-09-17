@@ -1,0 +1,5 @@
+- This program can be executed on a laptop but with large RAM by running `main.m` directly.
+- It may take 3.4 hours to finish the job.
+- After calculation, you'll get the data saved in a file named `dissipation_data.mat`.
+- For convinience, I've put a copy of the final result in this folder of which the name is `dissipation_data.mat`.
+- To produce the Fig.3bc in the original paper, just run the file `plot_figure3bc.m`.

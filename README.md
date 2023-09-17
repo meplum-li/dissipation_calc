@@ -1,2 +1,2 @@
 # dissipation_calc
- calculate energy dissipation in topological sysytem
+ This code is rewritten in `matlab` for calculating energy dissipation in topological sysytem.

@@ -1,0 +1,6 @@
+- You need to submit the job to a HPC by running `bash run.sh`.
+- This program is prepared for a cpu with 32 cores. It is easy to fit other platforms by editting the `run.sh`. 
+- For a calculation with 50 configurations of Buttiker probes, it may take 15 minutes to finish the job.
+-  After calculation, you'll get the data saved in a file named `dissipation_data.mat`.
+- For convinience, I've put a copy of the final result in this folder of which the name is `dissipation_data.mat`.
+- To produce the Fig.2c and Fig.2d in the original paper with $\Gamma=0$, just run the file `plot_figure2cd.m`.

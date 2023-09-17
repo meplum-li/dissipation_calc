@@ -1,0 +1,5 @@
+- This program can be run on a laptop. 
+- It is fast to generate the data by running `local_current.m`
+- After calculation, you'll get the data saved in a file named `local_current.mat`.
+- For convinience, I've put a copy of the final result in this folder of which the name is `local_current.mat`. 
+- To produce the Fig.3a in the original paper, just run the file `plot_figure3a.m`.
