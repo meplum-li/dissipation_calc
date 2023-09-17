@@ -4,3 +4,4 @@
 -  After calculation, you'll get the data saved in a file named `dissipation_data.mat`.
 - For convinience, I've put a copy of the final result in this folder of which the name is `dissipation_data.mat`.
 - To produce the Fig.2c and Fig.2d in the original paper with $\Gamma=0$, just run the file `plot_figure2cd.m`.
+- The programs in this folder lack comments. If you need explanations for the programs, you can refer directly to the programs in the folder `../figure2b_figure4b`.
