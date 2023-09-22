@@ -24,6 +24,7 @@ distribut_site = sortrows( all_sites( all_sites( :, 6 )>0, : ) );
 EE = Sample.distribute_EF;
 cm = colormap( jet( 20 ) );
 t = zeros( 10, 1 );
+figure
 for ii = 2:2:20
     plot( EE, F_ii_ee_aver( ii, : ), "Color", cm( ii, : ), 'LineWidth', 3, 'DisplayName', [ '(x,y)=(', num2str( distribut_site( ii, 1 ) ), ', ', num2str( distribut_site( ii, 2 ) ), ')' ] )
     hold on
